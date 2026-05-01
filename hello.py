@@ -1,7 +1,8 @@
 # This is my new file
 print('Hello')
 print('world')
+a = 21
 
 # git add hello.py
 # git commit -m "added new python file"
-# git push -m origin main
+# git push -u origin main
