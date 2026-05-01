@@ -1,8 +1,8 @@
 # This is my new file
 print('Hello')
 print('world')
-a = 21
-
+a = 27
+b = 9
 c = 8
 d = 58
 
